@@ -6,3 +6,10 @@ How to change the pictures in the heading? (header)
 Any more FAQs to add (FAQs)
 Where are people parking (FAQs)
 When is early bird and normal registration? (registration)
+
+Resume description:
+
+If you are interested in having your resumé reviewed by our sponsors, please submit your resumé and the following information below. 
+
+Submissions by individuals who have not registered for the conference will not be considered.
+NOTE: Please name your resume in the following convention: "Last Name, First Name" before uploading.
