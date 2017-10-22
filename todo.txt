@@ -9,9 +9,12 @@ When is early bird and normal registration? (registration)
 
 Resume description:
 
-If you are interested in having your resumé reviewed by our sponsors, please submit your resumé and the following information below. 
+If you are interested in having your resumÃ© reviewed by our sponsors, please submit your resumÃ© and the following information below. 
 
 Submissions by individuals who have not registered for the conference will not be considered.
 NOTE: Please name your resume in the following convention: "Last Name, First Name" before uploading.
 
-Kim- random images run by parallax. edit that and well have the images we want.
+Kim
+1. random images run by parallax. edit that and we'll have the images we want.
+2. added map
+3 made changes to footer (facebook, insta, twitter, maybe website if we have it done)
