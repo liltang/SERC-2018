@@ -2,7 +2,7 @@ When does SERC take place? (header)
 What is the SERC email? (process.php)
 Can high schoolers register like last year? (registration)
 How to upload a file? (resume)
-~~How to change the pictures in the heading? (header)~~
+~~How to change the pictures in the heading?~~ (header)
 Any more FAQs to add (FAQs)
 Where are people parking (FAQs)
 When is early bird and normal registration? (registration)
