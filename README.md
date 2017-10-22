@@ -1,5 +1,4 @@
 # SERC-SASE
-Webpage Bootstrap Development
 
 Kim
 1. random images run by parallax. edit that and we'll have the images we want.
