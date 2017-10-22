@@ -63,6 +63,30 @@ blockquote {
 	padding-bottom:0;
 	border-color:#1ABC9C;
 }
+
+/* Map */
+
+#map{
+    display: block;
+    margin: auto;  
+}
+
+.map {
+  height: 500px;
+}
+
+@media(max-width:768px) {
+  .map {
+    height: 75%;
+  }
+}
+
+.map iframe {
+  pointer-events: none;
+}
+
+
+
 blockquote small {
 	color:inherit;
 }
@@ -379,7 +403,7 @@ label {
 	width:100%;
 	top:0;
 	position:fixed;
-	background-image:url(http://unsplash.it/1600/600?random=1);
+	background-image:url(https://cbsnews1.cbsistatic.com/hub/i/2016/01/25/e17fe674-960f-4904-b806-89b180029c85/istock000028527814medium.jpg);
 	background-position:center center;
 	background-repeat:no-repeat;
 	-webkit-background-size: cover;
@@ -388,6 +412,16 @@ label {
 	background-size: cover;
 	z-index: -100;
 }
+
+/*
+ Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed 
+@media only screen and (max-device-width: 1024px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+*/
+
 /*	Navbar	==================================================*/
 .navbar-inverse .navbar-brand {
 	padding:30px 15px;
@@ -675,9 +709,28 @@ label {
 	font-style:italic;
 	display:inline-block;
 }
-.footer {
-	padding:70px 0 60px 0;
+
+/*	Footer	==================================================*/
+
+footer {
+    padding: 100px 0;
+    text-align: center;
 }
+
+#to-top {
+  font-size: 1em;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  display: none;
+  padding: 15px 20px;
+}
+
+hr.small {
+  max-width: 100px;
+}
+
+/*
 .footer ul.social-icons li {
 	width:20px;
 	height:20px;
@@ -689,6 +742,8 @@ label {
 .footer ul.social-icons li a {
 	color:#666;
 }
+*/
+
 .contactalert {  
 	margin-top: 20px;
 	border: 1px solid;
